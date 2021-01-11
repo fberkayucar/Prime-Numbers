@@ -1,0 +1,13 @@
+C:\Users\fevzi\source\repos\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.exe
+C:\Users\fevzi\source\repos\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.deps.json
+C:\Users\fevzi\source\repos\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.runtimeconfig.json
+C:\Users\fevzi\source\repos\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.runtimeconfig.dev.json
+C:\Users\fevzi\source\repos\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.dll
+C:\Users\fevzi\source\repos\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.pdb
+C:\Users\fevzi\source\repos\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.csprojAssemblyReference.cache
+C:\Users\fevzi\source\repos\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.AssemblyInfoInputs.cache
+C:\Users\fevzi\source\repos\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.AssemblyInfo.cs
+C:\Users\fevzi\source\repos\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.csproj.CoreCompileInputs.cache
+C:\Users\fevzi\source\repos\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.dll
+C:\Users\fevzi\source\repos\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.pdb
+C:\Users\fevzi\source\repos\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.genruntimeconfig.cache
